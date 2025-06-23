@@ -1,73 +1,91 @@
 # 🧡 SRH IPL Cricket Stats Dashboard (EDA Project)
 
-A detailed data analysis project focused on **Sunrisers Hyderabad** (SRH), using ball-by-ball data from the Indian Premier League (IPL). This project extracts meaningful insights from raw cricket data using Python, Pandas, Matplotlib, and Seaborn.
+A detailed data analysis project focused on **Sunrisers Hyderabad (SRH)**, using ball-by-ball data from the Indian Premier League (IPL). This project extracts meaningful insights from raw cricket data using **Python, Pandas, Matplotlib, and Seaborn**.
 
 ---
 
-## 📌 Objective
+## 🎯 Objective
 
-To perform exploratory data analysis (EDA) on Sunrisers Hyderabad's IPL performance across seasons — focusing on player stats, match outcomes, and season-wise trends.
-
----
-
-## 🧩 Dataset
-
-- Source: [Cricsheet](https://cricsheet.org/)
-- Format: CSV (processed from raw JSON)
-- Scope: IPL matches involving Sunrisers Hyderabad (2013–2025)
-- Key columns: `striker`, `bowler`, `runs_off_bat`, `player_dismissed`, `season`, `match_id`, etc.
+To perform exploratory data analysis (EDA) on Sunrisers Hyderabad’s IPL performance across seasons — focusing on:
+- Top batsmen and bowlers
+- Year-wise team performance
+- Wickets by dismissal type
+- Opponent-wise matchups
+- Economy & strike metrics
 
 ---
 
-## 📊 Key Visualizations
+## 🗂️ Dataset
 
-- 🔝 **Top 10 SRH Batsmen** by total runs
-- 🎯 **Top 10 SRH Bowlers** by total wickets
-- 📅 **Wickets per Season**
-- 🧹 **Dismissal Type Breakdown**
-- ⚖️ **Economy Rates** of SRH bowlers
-- 🆚 **Performance vs Opponent Teams**
-- 🚀 **4s and 6s Analysis**
-- 🤝 **Top Batting Partnerships**
-- 📈 **Total Runs by Season**
-- ⚔️ **Combined Batting & Bowling vs Opponents**
-
-All plots use team-based color palettes for clear visual distinction.
+- Source: [Cricsheet IPL Data](https://cricsheet.org/)
+- Type: Ball-by-ball delivery-level data in CSV format
+- Scope: 2008–2025 IPL seasons, filtered for matches involving SRH
 
 ---
 
 ## ⚙️ Tech Stack
 
-- `Python 3.x`
-- `Pandas`
-- `Matplotlib`
-- `Seaborn`
-- `NumPy`
+| Tool           | Purpose                      |
+|----------------|------------------------------|
+| Python         | Data analysis & scripting    |
+| Pandas         | Data manipulation            |
+| Matplotlib     | Plotting graphs              |
+| Seaborn        | Statistical visualizations   |
+| Jupyter/VS Code| Development environment      |
 
 ---
 
-## 🧼 Features
+## 📊 Key Analyses
 
-- Cleaned and standardized team names
-- Custom color palettes per IPL franchise
-- Readable, labeled, and publication-ready plots
-- Modular and extensible code for new teams/years
+### 🧡 Top 10 SRH Batsmen (by Runs)
+![Top Batsmen](Top%2010%20SRH%20batsmens.png)
+
+### 🎯 Top 10 SRH Bowlers (by Wickets)
+![Top Bowlers](top%2010%20SRH%20bowlers.png)
+
+### 📅 SRH Year-wise Total Wickets
+![Year-wise Wickets](SRH%20year%20wise%20total%20wickets.png)
+
+### 🔢 SRH Total Runs by Season
+![Total Runs by Season](SRH%20total%20runs%20by%20season.png)
+
+### 🤝 Top 10 SRH Batting Partnerships
+![Partnerships](Top%2010%20SRH%20Batting%20Partnerships.png)
+
+### 🎯 SRH Bowling vs Opponent Teams
+![Wickets by Opponent](Total%20wickets%20taken%20by%20SRH%20bowlers%20against%20each%20team.png)
+
+### 🔁 SRH Batting & Bowling vs Opponent Teams
+![Combined](SRH%20batting%20and%20bowling%20vs%20opponent.png)
+
+### 💥 Top 10 SRH Batsmen - Fours and Sixes
+![4s and 6s](Top%2010%20SRH%20batsmen-%204's%20and%206's.png)
+
+### 💸 Top 10 Most Economical SRH Bowlers
+![Economy](Top%2010%20SRH%20most%20economical%20bowlers.png)
 
 ---
 
-## 🧠 Insights
+## 📝 Summary Report
 
-- Warner, Dhawan, and Williamson lead SRH batting charts.
-- Bhuvneshwar Kumar is SRH's most successful bowler.
-- SRH’s bowling has been consistently strong across seasons.
-- SRH has shown varied performance against different teams (e.g., more wickets vs MI, fewer vs CSK).
+A brief PDF version of this project is available:
+- 📄 [`srh_eda_summary.pdf`](srh_eda_summary.pdf)
 
 ---
 
-## 📁 How to Run
+## 🧰 How to Run
 
 ```bash
+# Step 1: Clone the repo
 git clone https://github.com/wvpssriraj10/srh-eda-dashboard.git
 cd srh-eda-dashboard
+
+# Step 2: Create virtual environment (optional)
+python -m venv .venv
+source .venv/bin/activate  # On Windows: .venv\Scripts\activate
+
+# Step 3: Install dependencies
 pip install -r requirements.txt
+
+# Step 4: Run the analysis
 python srh_eda.py
