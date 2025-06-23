@@ -67,7 +67,7 @@ All plots use team-based color palettes for clear visual distinction.
 ## 📁 How to Run
 
 ```bash
-git clone https://github.com/your-username/srh-eda-dashboard.git
+git clone https://github.com/wvpssriraj10/srh-eda-dashboard.git
 cd srh-eda-dashboard
 pip install -r requirements.txt
 python srh_eda.py
