@@ -38,50 +38,34 @@ To perform **exploratory data analysis (EDA)** on Sunrisers Hyderabad’s IPL pe
 
 ---
 
-## 📊 Key Analyses
+##📊 Key Analyses
 
-### 🧡 Top 10 SRH Batsmen (by Runs)
-![Top 10 SRH Batsmen by Runs](https://github.com/wvpssriraj10/srh-eda-dashboard/raw/main/visuals/top_5_batsmen.png)
+🧡 Top 10 SRH Batsmen (by Runs)  
+![Top 10 SRH Batsmen](https://github.com/wvpssriraj10/srh-eda-dashboard/raw/main/top_5_batsmen.png)
 
----
+🎯 Top 10 SRH Bowlers (by Wickets)  
+![Top 10 SRH Bowlers](https://github.com/wvpssriraj10/srh-eda-dashboard/raw/main/Figure_2.png)
 
-### 🎯 Top 10 SRH Bowlers (by Wickets)
-![Top 10 SRH Bowlers by Wickets](https://github.com/wvpssriraj10/srh-eda-dashboard/raw/main/visuals/top_5_bowlers.png)
+📅 SRH Year-wise Total Wickets  
+![Year-wise Wickets](https://github.com/wvpssriraj10/srh-eda-dashboard/raw/main/Figure_3.png)
 
----
+🔢 SRH Total Runs by Season  
+![Total Runs by Season](https://github.com/wvpssriraj10/srh-eda-dashboard/raw/main/Figure_9.png)
 
-### 📅 SRH Year-wise Total Wickets
-![Year-wise Total Wickets](https://github.com/wvpssriraj10/srh-eda-dashboard/raw/main/visuals/year_wise_total_wickets.png)
+🤝 Top 10 SRH Batting Partnerships  
+![Top Partnerships](https://github.com/wvpssriraj10/srh-eda-dashboard/raw/main/Figure_8.png)
 
----
+🎯 SRH Bowling vs Opponent Teams  
+![Wickets by Opponent](https://github.com/wvpssriraj10/srh-eda-dashboard/raw/main/Figure_5.png)
 
-### 🧹 Dismissal Types Breakdown (by SRH Bowlers)
-![Dismissal Type Breakdown](https://github.com/wvpssriraj10/srh-eda-dashboard/raw/main/visuals/type_of_dismissals_by_SRH_bowlers.png)
+🔁 SRH Batting & Bowling vs Opponent Teams  
+![Combined Batting & Bowling](https://github.com/wvpssriraj10/srh-eda-dashboard/raw/main/Figure_6.png)
 
----
+💥 Top 10 SRH Batsmen - Fours and Sixes  
+![Most 4s and 6s](https://github.com/wvpssriraj10/srh-eda-dashboard/raw/main/Figure_7.png)
 
-### 🎯 Wickets Taken vs Each Opponent
-![Wickets by Opponent](https://github.com/wvpssriraj10/srh-eda-dashboard/raw/main/visuals/Wickets_vs_Opponent_Teams.png)
-
----
-
-### 🔁 SRH Batting & Bowling vs Opponent Teams
-![Batting & Bowling Combined](https://github.com/wvpssriraj10/srh-eda-dashboard/raw/main/visuals/Combined_Batting_%26_Bowling_vs_Opponents.png)
-
----
-
-### 💥 Top 10 SRH Batsmen - Fours and Sixes
-![Most 4s and 6s](https://github.com/wvpssriraj10/srh-eda-dashboard/raw/main/visuals/most_bowundaries.png)
-
----
-
-### 🤝 Top 10 SRH Batting Partnerships
-![Top Partnerships](https://github.com/wvpssriraj10/srh-eda-dashboard/raw/main/visuals/top_batting_partnerships_SRH.png)
-
----
-
-### 🧡 SRH Total Runs by Season
-![Seasonal Runs](https://github.com/wvpssriraj10/srh-eda-dashboard/raw/main/visuals/total_runs_each_season.png)
+💸 Top 10 Most Economical SRH Bowlers  
+![Economical Bowlers](https://github.com/wvpssriraj10/srh-eda-dashboard/raw/main/Figure_4.png)
 
 ---
 
