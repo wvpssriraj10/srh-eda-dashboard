@@ -41,31 +41,31 @@ To perform **exploratory data analysis (EDA)** on Sunrisers Hyderabad’s IPL pe
 ##📊 Key Analyses
 
 🧡 Top 10 SRH Batsmen (by Runs)  
-![Top 10 SRH Batsmen](https://github.com/wvpssriraj10/srh-eda-dashboard/raw/main/top_5_batsmen.png)
+![Top 10 SRH Batsmen](https://github.com/wvpssriraj10/srh-eda-dashboard/blob/main/Top%2010%20SRH%20batsmens.png)
 
 🎯 Top 10 SRH Bowlers (by Wickets)  
-![Top 10 SRH Bowlers](https://github.com/wvpssriraj10/srh-eda-dashboard/raw/main/Figure_2.png)
+![Top 10 SRH Bowlers](https://github.com/wvpssriraj10/srh-eda-dashboard/blob/main/top%2010%20SRH%20bowlers.png)
 
 📅 SRH Year-wise Total Wickets  
-![Year-wise Wickets](https://github.com/wvpssriraj10/srh-eda-dashboard/raw/main/Figure_3.png)
+![Year-wise Wickets](https://github.com/wvpssriraj10/srh-eda-dashboard/blob/main/SRH%20year%20wise%20total%20wickets.png)
 
 🔢 SRH Total Runs by Season  
-![Total Runs by Season](https://github.com/wvpssriraj10/srh-eda-dashboard/raw/main/Figure_9.png)
+![Total Runs by Season](https://github.com/wvpssriraj10/srh-eda-dashboard/blob/main/SRH%20total%20runs%20by%20season.png)
 
 🤝 Top 10 SRH Batting Partnerships  
-![Top Partnerships](https://github.com/wvpssriraj10/srh-eda-dashboard/raw/main/Figure_8.png)
+![Top Partnerships](https://github.com/wvpssriraj10/srh-eda-dashboard/blob/main/Top%2010%20SRH%20Batting%20Partnerships.png)
 
 🎯 SRH Bowling vs Opponent Teams  
-![Wickets by Opponent](https://github.com/wvpssriraj10/srh-eda-dashboard/raw/main/Figure_5.png)
+![Wickets by Opponent](https://github.com/wvpssriraj10/srh-eda-dashboard/blob/main/SRH%20batting%20and%20bowling%20vs%20opponent%20teams.png)
 
 🔁 SRH Batting & Bowling vs Opponent Teams  
-![Combined Batting & Bowling](https://github.com/wvpssriraj10/srh-eda-dashboard/raw/main/Figure_6.png)
+![Combined Batting & Bowling](https://github.com/wvpssriraj10/srh-eda-dashboard/blob/main/SRH%20batting%20and%20bowling%20vs%20opponent%20teams.png)
 
 💥 Top 10 SRH Batsmen - Fours and Sixes  
-![Most 4s and 6s](https://github.com/wvpssriraj10/srh-eda-dashboard/raw/main/Figure_7.png)
+![Most 4s and 6s]([https://github.com/wvpssriraj10/srh-eda-dashboard/raw/main/Figure_7.png](https://github.com/wvpssriraj10/srh-eda-dashboard/blob/main/Top%2010%20SRH%20batsmen-%204's%20and%206's.png))
 
 💸 Top 10 Most Economical SRH Bowlers  
-![Economical Bowlers](https://github.com/wvpssriraj10/srh-eda-dashboard/raw/main/Figure_4.png)
+![Economical Bowlers]([https://github.com/wvpssriraj10/srh-eda-dashboard/raw/main/Figure_4.png](https://github.com/wvpssriraj10/srh-eda-dashboard/blob/main/Top%2010%20SRH%20most%20economical%20bowlers.png))
 
 ---
 
